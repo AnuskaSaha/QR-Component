@@ -43,7 +43,7 @@ Above screenshot is the desktop view. The screenshot below is the mobile-view.
 
 ### Links
 
-- Live Site URL: [Add live site URL here]( https://anuskasaha.github.io/QR-Component/)
+- Live Site URL: [QR Component]( https://anuskasaha.github.io/QR-Component/)
 
 
 ### Built with
